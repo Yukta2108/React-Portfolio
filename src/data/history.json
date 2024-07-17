@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Public Speaker Mentor",
+    "organisation": "PlanetSpark",
+    "startDate": "November, 2023",
+    "endDate": "Present",
+    "experiences": ["Trained Students For Fluent Communication"],
+    "imageSrc": "history/planet.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Codsoft",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Making Responsive Websites and Apps"],
+    "imageSrc": "history/codsoft.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Eazybyts Infotech",
+    "startDate": "May, 2024",
+    "endDate": "June, 2024",
+    "experiences": [
+      "Worked on Different Task"
+    ],
+    "imageSrc": "history/eazy.png"
+  }
+]
